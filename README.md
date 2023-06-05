@@ -1,0 +1,3 @@
+### Wheels, An Online Cycle Shop:  
+- Wheels is an entirely responsive e-commerce website that allows you to buy various brand cycles. There are two stakeholders in this software. 
+- The admin dashboard allows the administrator to add categories and do other administrative tasks. He or she can review order information and confirm orders. Customers can view the products, add them to their cart, change the amount, and pay cash on delivery. Admin can apply discounts to any product and create vouchers for a particular period of time. This project’s front end is built using HTML5, CSS3, JavaScript, and Bootstrap. In addition, the project’s back end is written in PHP.
